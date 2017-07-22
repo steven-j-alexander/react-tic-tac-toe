@@ -1,0 +1,14 @@
+{
+  "name": "react-tic-tac-toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^2.4.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "dev": "next"
+  }
+}
