@@ -9,6 +9,9 @@
     "react-dom": "^15.6.1"
   },
   "scripts": {
-    "dev": "next"
-  }
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "steven-j-alexander <steven.james.alexander@gmail.com>"
 }
